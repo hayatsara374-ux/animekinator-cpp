@@ -1,0 +1,2 @@
+# animekinator-cpp
+A C++ DSA project that uses binary trees to guess anime characters through yes/no questions.
